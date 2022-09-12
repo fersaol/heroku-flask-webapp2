@@ -1,0 +1,40 @@
+body {
+    background-color:slategray;
+    text-align: left;
+}
+
+p {
+    color:red;
+    font-size: 1.2em;
+    margin: 20px;
+    
+}
+
+img {
+    margin: 60px 0 30px 0;
+    width: 250px
+}
+
+input {
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(15, 15, 14);
+}
+
+#submit {
+    background-color: palevioletred;
+    color: blanchedalmond;
+    width: 275px;
+}
+
+#submit:hover {
+    background-color: mediumaquamarine;
+    cursor: pointer;
+}
+
+input:focus {
+    border: solid 5px #00FF;
+    outline: none;
+}
