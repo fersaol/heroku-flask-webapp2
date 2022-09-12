@@ -1,6 +1,6 @@
 click==8.0.3
 colorama==0.4.4
-conda==4.10.3
+conda==4.3.16
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
