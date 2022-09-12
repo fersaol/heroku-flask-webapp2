@@ -7,7 +7,6 @@ black==22.1.0
 bleach==4.1.0
 brotlipy==0.7.0
 certifi==2021.5.30
-cffi @ file:///C:/ci/cffi_1625831756778/work
 chardet @ file:///C:/ci/chardet_1607706937985/work
 click==8.0.3
 colorama==0.4.4
